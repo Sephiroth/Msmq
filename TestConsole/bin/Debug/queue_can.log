@@ -1,0 +1,30 @@
+2019-01-07 16:27:40,941 [10] ERROR TestConsole.Program - 
+System.Exception: CanInfo:帧ID:34;内容:01 02 03 04 05 06 07 08 
+2019-01-07 16:27:41,000 [10] ERROR TestConsole.Program - sendMqReceiveCompleted
+System.Exception: 发送失败
+   在 CANLibrary.CANAPI.CanSend(UInt32 canID, Byte[] data) 位置 F:\CSharp\CAN_MQ_WCF\CANLibrary\CANAPI.cs:行号 128
+   在 TestConsole.Program.sendMqReceiveCompleted(Object source, ReceiveCompletedEventArgs asyncResult) 位置 F:\CSharp\CAN_MQ_WCF\TestConsole\Program.cs:行号 95
+2019-01-07 16:33:22,568 [10] ERROR TestConsole.Program - 
+System.Exception: CanInfo:帧ID:34;内容:01 02 03 04 05 06 07 08 
+2019-01-07 16:33:22,598 [10] ERROR TestConsole.Program - sendMqReceiveCompleted
+System.Exception: 发送失败
+   在 CANLibrary.CANAPI.CanSend(UInt32 canID, Byte[] data) 位置 F:\CSharp\CAN_MQ_WCF\CANLibrary\CANAPI.cs:行号 128
+   在 TestConsole.Program.sendMqReceiveCompleted(Object source, ReceiveCompletedEventArgs asyncResult) 位置 F:\CSharp\CAN_MQ_WCF\TestConsole\Program.cs:行号 101
+2019-01-07 16:33:33,029 [11] ERROR TestConsole.Program - 
+System.Exception: CanInfo:帧ID:34;内容:01 02 03 04 05 06 07 08 
+2019-01-07 16:33:33,059 [11] ERROR TestConsole.Program - sendMqReceiveCompleted
+System.Exception: 发送失败
+   在 CANLibrary.CANAPI.CanSend(UInt32 canID, Byte[] data) 位置 F:\CSharp\CAN_MQ_WCF\CANLibrary\CANAPI.cs:行号 128
+   在 TestConsole.Program.sendMqReceiveCompleted(Object source, ReceiveCompletedEventArgs asyncResult) 位置 F:\CSharp\CAN_MQ_WCF\TestConsole\Program.cs:行号 101
+2019-01-08 13:51:44,172 [11] ERROR TestConsole.Program - 
+System.Exception: CanInfo:帧ID:34;内容:01 02 03 04 05 06 07 08 
+2019-01-08 13:51:44,292 [11] ERROR TestConsole.Program - sendMqReceiveCompleted
+System.Exception: 发送失败
+   在 CANLibrary.CANAPI.CanSend(UInt32 canID, Byte[] data) 位置 F:\CSharp\CAN_MQ_WCF\CANLibrary\CANAPI.cs:行号 128
+   在 TestConsole.Program.sendMqReceiveCompleted(Object source, ReceiveCompletedEventArgs asyncResult) 位置 F:\CSharp\CAN_MQ_Service\TestConsole\Program.cs:行号 95
+2019-01-08 13:52:07,533 [10] ERROR TestConsole.Program - 
+System.Exception: CanInfo:帧ID:34;内容:01 02 03 04 05 06 07 08 
+2019-01-08 13:52:07,569 [10] ERROR TestConsole.Program - sendMqReceiveCompleted
+System.Exception: 发送失败
+   在 CANLibrary.CANAPI.CanSend(UInt32 canID, Byte[] data) 位置 F:\CSharp\CAN_MQ_WCF\CANLibrary\CANAPI.cs:行号 128
+   在 TestConsole.Program.sendMqReceiveCompleted(Object source, ReceiveCompletedEventArgs asyncResult) 位置 F:\CSharp\CAN_MQ_Service\TestConsole\Program.cs:行号 95

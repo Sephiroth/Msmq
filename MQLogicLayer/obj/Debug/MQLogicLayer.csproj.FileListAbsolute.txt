@@ -1,0 +1,15 @@
+F:\CSharp\AutomaticSafeDepositBox\MQLogicLayer\bin\Debug\MQLogicLayer.dll
+F:\CSharp\AutomaticSafeDepositBox\MQLogicLayer\bin\Debug\MQLogicLayer.pdb
+F:\CSharp\AutomaticSafeDepositBox\MQLogicLayer\obj\Debug\MQLogicLayer.csprojResolveAssemblyReference.cache
+F:\CSharp\AutomaticSafeDepositBox\MQLogicLayer\obj\Debug\MQLogicLayer.dll
+F:\CSharp\AutomaticSafeDepositBox\MQLogicLayer\obj\Debug\MQLogicLayer.pdb
+F:\CSharp\CAN_MQ_WCF\MQLogicLayer\bin\Debug\MQLogicLayer.dll
+F:\CSharp\CAN_MQ_WCF\MQLogicLayer\bin\Debug\MQLogicLayer.pdb
+F:\CSharp\CAN_MQ_WCF\MQLogicLayer\obj\Debug\MQLogicLayer.csprojResolveAssemblyReference.cache
+F:\CSharp\CAN_MQ_WCF\MQLogicLayer\obj\Debug\MQLogicLayer.dll
+F:\CSharp\CAN_MQ_WCF\MQLogicLayer\obj\Debug\MQLogicLayer.pdb
+F:\CSharp\CAN_MQ_Service\MQLogicLayer\bin\Debug\MQLogicLayer.dll
+F:\CSharp\CAN_MQ_Service\MQLogicLayer\bin\Debug\MQLogicLayer.pdb
+F:\CSharp\CAN_MQ_Service\MQLogicLayer\obj\Debug\MQLogicLayer.csprojResolveAssemblyReference.cache
+F:\CSharp\CAN_MQ_Service\MQLogicLayer\obj\Debug\MQLogicLayer.dll
+F:\CSharp\CAN_MQ_Service\MQLogicLayer\obj\Debug\MQLogicLayer.pdb
